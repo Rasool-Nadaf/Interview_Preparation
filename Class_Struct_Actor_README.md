@@ -1,5 +1,4 @@
 # Swift Interview Prep – Class, Struct, Actor
-
 ---
 
 ## 🔹 General Questions
