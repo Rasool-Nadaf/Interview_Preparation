@@ -1,5 +1,7 @@
 # Swift Interview Prep – Class, Struct, Actor
 ---
+## Difference Between Class,struct and Actor
+![image alt](https://github.com/Rasool-Nadaf/Interview_Preparation/blob/main/Difference.png?raw=true)
 
 ## 🔹 General Questions
 1. **What is a class in Swift?**
